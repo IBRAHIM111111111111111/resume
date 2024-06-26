@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(189, 247, 255);
+}
+hr {
+    border-color: rgb(22, 142, 111);
+    border-width: 6px;
+    border-top-style:dashed ;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+
+
+width: 10%;
+}
+
+h1 {
+    color: rgb(19, 94, 13);
+}
+h6{
+    color: #cbffff;
+}
+
+h4{
+    color: rgb(58, 4, 89);
+}
+
+li {
+    color: rgb(2, 68, 46);
+}
+
+table {
+color: rgb(70, 5, 54);
+}
